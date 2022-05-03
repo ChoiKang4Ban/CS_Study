@@ -74,4 +74,5 @@
     - 넌클러스터 인덱스 (nonclustered Index)
 
 - 데이터 범위에 따른 인덱스
-    - 밀집 인덱스(Dense Index) :
+    - 밀집 인덱스(Dense Index)
+    - 희소 인덱스(Sparse Index)
