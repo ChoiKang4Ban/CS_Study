@@ -25,7 +25,7 @@ ex) [5월 1주차] 데이터베이스.md
 
 |   주제           |        진호        |        현명        |        진합        |        세환        |
 | :----------------------: | :------------------------: | :----------------: | :----------------: | :----------------: |
-| 데이터베이스 개념 |  |  |  |  |
-| Index |   |  | |   |
+| 데이터베이스 개념 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Index |  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 <!-- :heavy_check_mark: -->
