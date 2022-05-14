@@ -28,4 +28,14 @@ ex) [5월 1주차] 데이터베이스.md
 | 데이터베이스 개념 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Index |  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
+
+<br>
+
+
+|   주제           |        진호        |        현명        |        진합        |        세환        |
+| :----------------------: | :------------------------: | :----------------: | :----------------: | :----------------: |
+| 정규화 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 트랜잭션 |  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+
+
 <!-- :heavy_check_mark: -->
