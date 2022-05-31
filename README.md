@@ -40,11 +40,11 @@ ex) [5월 1주차] 데이터베이스.md
 
 <br>
 
-<!-- ## 2022/05/17 (3주차)
+## 2022/05/17 (3주차)
 
 |   주제           |        진호        |        현명        |        진합        |        세환        |
 | :----------------------: | :------------------------: | :----------------: | :----------------: | :----------------: |
 | Statement vs PreparedStatement | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | NoSQL |  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
-<!-- :heavy_check_mark: --> -->
+<!-- :heavy_check_mark: -->
